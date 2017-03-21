@@ -1,1 +1,23 @@
-Today is Monday
+jc2053@sanguis.hpc.cam.ac.uk's password:
+Last login: Mon Mar 20 16:42:56 2017 from cmpc143.srl.private.cam.ac.uk
+[jc2053@sanguis ~]$ ls
+3randoms.log        interval_qced_2.2.16.log    random15k.snps
+3random_snps        interval_qced_2.2.16.nosex  random3.log
+3random_snps.log    interval_qced_2.2.16.ped    random3.snps
+3random_snpsls.log  missing_a.imiss             random3_snps.log
+allele_freq.frq     missing_a.lmiss             random5.snps
+allele_freq.log     missing_a.log               Repose
+allele_freq.nosex   missing_a.nosex             scratch
+hwe.hwe             new_interval.log            slurm_submit.darwin
+hwe.log             new_interval.nosex          slurm_submit.wilkes
+hwe.nosex           randm3.snps
+[jc2053@sanguis ~]$ cd scratch
+[jc2053@sanguis scratch]$ ls
+example                     new_interval.nosex        random3set-temporary.fam
+gtool                       new_interval.ped          random3s.fam
+gtool.log                   random3s.bed              random3s.log
+interval_phenotypes.sample  random3s.bim              random3s.nosex
+LICENCE                     random3set.log            random3.snps
+new_interval.log            random3set-temporary.bed  softs
+new_interval.map            random3set-temporary.bim
+
